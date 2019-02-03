@@ -35,6 +35,7 @@
                             <mainClass>com.java.exercises.BeatBox</mainClass>
                         </manifest>
                     </archive>
+
                 </configuration>
             </plugin>
         </plugins>
